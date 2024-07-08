@@ -1,4 +1,4 @@
-const photo = <img src="./image/khathera.jpg" id="pic" />;
+const photo = <img src="./khathera.jpg" id="pic" />;
 const information = (
   <div id="theHead">
     <h1>Khathera Rezaie</h1>
